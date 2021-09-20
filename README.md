@@ -20,12 +20,12 @@ Amethyst uses two modifier combinations.
 | ---------------- | ------------------------------------------------------------ |
 | `mod1 + space`   | ~~Cycle layout forward~~                                     |
 | `mod2 + space`   | ~~Cycle layout backwards~~                                   |
-| `mod1 + h`       | **main pane缩小。**Shrink the main pane                      |
-| `mod1 + l`       | **main pane扩大。**Expand the main pane                      |
+| `mod1 + h`       | **main pane缩小** Shrink the main pane                      |
+| `mod1 + l`       | **main pane扩大** Expand the main pane                      |
 | `mod1 + ,`       | **main pane 增加数量** Increase main pane count              |
 | `mod1 + .`       | **main pane减少数量** Decrease main pane count               |
-| `mod1 + j`       | **逆时针移动焦点。**Move focus counter clockwise             |
-| `mod1 + k`       | **顺时针移动焦点。**Move focus clockwise                     |
+| `mod1 + j`       | **逆时针移动焦点** Move focus counter clockwise             |
+| `mod1 + k`       | **顺时针移动焦点** Move focus clockwise                     |
 | `mod1 + p`       | ~~Move focus to counter clockwise screen~~                   |
 | `mod1 + n`       | ~~Move focus to clockwise screen~~ no need coz I've only 2 screens |
 | `mod2 + h`       | ~~Swap focused window to counter clockwise screen~~          |
@@ -80,8 +80,8 @@ Amethyst uses two modifier combinations.
 
 | Main Pane  | Description                                     |
 | ---------- | ----------------------------------------------- |
-| `mod1 + h` | **main pane缩小。**Shrink the main pane         |
-| `mod1 + l` | **main pane扩大。**Expand the main pane         |
+| `mod1 + h` | **main pane缩小** Shrink the main pane         |
+| `mod1 + l` | **main pane扩大** Expand the main pane         |
 | `mod1 + ,` | **main pane 增加数量** Increase main pane count |
 | `mod1 + .` | **main pane减少数量** Decrease main pane count  |
 
